@@ -8,7 +8,7 @@ Created on Sun Jul 23 15:02:11 2023
 import numpy as np
 import pickle
 import streamlit as st
-loaded_model = pickle.load(open('D:/trained_model.sav','rb'))
+loaded_model = pickle.load(open('NANDA4528/Diabetes_prediction/trained_model.sav','rb'))
 def predict(input_data):
     input_data_as_numpy_array = np.asarray(input_data)
 
