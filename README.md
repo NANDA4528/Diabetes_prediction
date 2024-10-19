@@ -1,5 +1,3 @@
-# Diabetes Detection Repository
-
 ![image](https://github.com/NANDA4528/Diabetes_prediction/assets/121653749/ba289266-1e3f-4153-96df-a7310afde347)
 
 
